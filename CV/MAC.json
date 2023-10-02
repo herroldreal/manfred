@@ -11,24 +11,14 @@
       "title": "BackEnd & Mobile Developer",
       "description": "¡Hola equipo!\n\nSoy Herrold Real, un ingeniero de software apasionado con más de 5 años de experiencia en el desarrollo de aplicaciones web y móviles. Me gusta estar en constante evolución, siempre buscando nuevas tecnologías y tendencias para mantenerme al día en un mundo en constante cambio.\n\nSoy un profesional muy adaptable, capaz de trabajar en equipo y de manera autónoma. Mi habilidad para manejar cambios de dirección y situaciones desafiantes ha sido clave en mi éxito como ingeniero de software. Además, mi naturaleza proactiva me permite identificar problemas y oportunidades antes de que se conviertan en un obstáculo.\n\nSi bien mi experiencia se centra principalmente en el desarrollo de software, también he desarrollado habilidades en la gestión de proyectos y en la comunicación con los clientes. Creo firmemente en la importancia de la colaboración y la comunicación transparente para lograr resultados exitosos.\n\nEstoy buscando un nuevo desafío profesional en el que pueda continuar creciendo y aportar valor a un equipo de trabajo dinámico y en constante evolución. Si mi perfil encaja con los valores y objetivos de su empresa, estaré encantado de discutir cómo puedo contribuir a su equipo.\n\nMuchas gracias por considerar mi solicitud. Espero con ansias la oportunidad de hablar con ustedes.\n\nAtentamente,\n\nHerrold H. Real",
       "avatar": {
-        "alt": "FB_IMG_1678459512210.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/10/8bd53603-0fca-4529-a876-cbd7945275ca_fb_img_1678459512210.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/10/8bd53603-0fca-4529-a876-cbd7945275ca_fb_img_1678459512210.jpg",
+        "alt": "FB_IMG_1678459512210.jpg"
       },
       "location": {
-        "country": "Nicaragua",
-        "notes": "Autocompleted using Google Maps API"
+        "notes": "Autocompleted using Google Maps API (id: ChIJzSL_zgDCEI8RtRWsP-Wn-sg)",
+        "country": "Nicaragua"
       }
-    },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/herroldreal"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://linkedin.com/in/hreal92"
-      }
-    ]
+    }
   },
   "experience": {
     "jobs": [
@@ -36,8 +26,8 @@
         "organization": {
           "name": "Moonshot Partners",
           "image": {
-            "alt": "download.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/11/e2fe4dee-3c1b-4eeb-9426-cb47f1b03787_download.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/11/e2fe4dee-3c1b-4eeb-9426-cb47f1b03787_download.png",
+            "alt": "download.png"
           },
           "URL": "https://www.moonshot.partners/"
         },
@@ -132,7 +122,7 @@
                 "type": "technology"
               },
               {
-                "name": "Firebase",
+                "name": "Google Firebase",
                 "type": "technology"
               },
               {
@@ -151,8 +141,8 @@
         "organization": {
           "name": "Gnommo Studios",
           "image": {
-            "alt": "55f612028ef45cc50c76.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/11/5baab29b-c0b9-42ec-84ac-284ceedf6b60_55f612028ef45cc50c76.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/11/5baab29b-c0b9-42ec-84ac-284ceedf6b60_55f612028ef45cc50c76.png",
+            "alt": "55f612028ef45cc50c76.png"
           },
           "URL": "http://www.gnommostudios.com/"
         },
@@ -199,8 +189,8 @@
           "description": "He desarrollado una biblioteca para administrar grandes cargas de mensajes de AWS SQS y AWS SNS utilizando S3. En particular, admite cargas de mensajes que superan el límite de 256 KB de SQS/SNS. Es en gran parte una versión de TypeScript de la Amazon SQS Extended Client Library para Java, aunque no es una copia exacta.\n\nDesarrolle esta biblioteca para administrar grandes cargas de mensajes de AWS SQS/SNS utilizando S3. Esto será útil para muchos usuarios que necesitan enviar mensajes más grandes que el límite de SQS de 256 KB.\n\nAl utilizar S3 para almacenar las grandes cargas de mensajes, puede reducir el tamaño del mensaje enviado a SQS o SNS y, en su lugar, enviar solo una referencia al objeto S3 que contiene la carga completa del mensaje. Este enfoque puede ayudar a ahorrar en los costos de SQS/SNS y también brindar flexibilidad para procesar mensajes de varios tamaños.\n\nAlgunas características potenciales que es posible que desee considerar agregar a su biblioteca en el futuro incluyen:\n\n- Soporte para el cifrado de objetos S3 que contienen cargas de mensajes para mejorar la seguridad.\n- Integración con otros servicios de AWS, como Lambda, para proporcionar capacidades de procesamiento más avanzadas para grandes cargas de mensajes.\n- Limpieza automática de objetos S3 que contienen cargas de mensajes después de un cierto período de tiempo para evitar costos de almacenamiento innecesarios.",
           "URL": "https://github.com/cool-travels/aws-extended-services-library",
           "image": {
-            "alt": "aws.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/11/bb151078-0f23-441b-ae34-87f9c0bfc402_aws.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/11/bb151078-0f23-441b-ae34-87f9c0bfc402_aws.png",
+            "alt": "aws.png"
           }
         },
         "type": "openSource",
@@ -233,20 +223,20 @@
           "description": "Los avances en los cubesats ahora están impulsando el concepto para apoyar misiones de espacio profundo. Este desafío se basa en esto y lleva un cubesat, llamado CamSat (para los propósitos del desafío), en una hipotética misión planetaria de espacio profundo a Mercurio. Durante ciertas fases de la misión, el equipo encontrará eventos de interés significativo (ya sea científico o de interés general para el público) y determinará que se podría lanzar un dispositivo de imagen robótico para proporcionar una imagen visual de la nave espacial. Su CamSat robótico regresará a la nave nodriza para su reutilización. El programa SPHERES de la NASA en la Estación Espacial Internacional se ha concebido para este propósito.",
           "URL": "https://www.spaceappschallenge.org/",
           "image": {
-            "alt": "navbar-nav-logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/11/3feea6c2-ea4d-40a1-9ef1-3fe4d349efc8_navbar-nav-logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/11/3feea6c2-ea4d-40a1-9ef1-3fe4d349efc8_navbar-nav-logo.png",
+            "alt": "navbar-nav-logo.png"
           }
         },
         "type": "achievement",
         "publishingDate": "2015-11-01",
+        "tags": [
+          "Hackathon"
+        ],
         "relatedCompetences": [
           {
             "name": "Geoserver",
             "type": "technology"
           }
-        ],
-        "tags": [
-          "Hackathon"
         ]
       }
     ]
@@ -254,78 +244,18 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Azure Functions",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Sequelize",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jenkins",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Android Studio",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeORM",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Nest",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "XML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Android",
+          "name": "AWS",
           "type": "technology"
         }
       },
@@ -337,31 +267,31 @@
       },
       {
         "skill": {
-          "name": "MongoDB",
+          "name": "Android",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "NodeJS",
+          "name": "Android SDK",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "JSON",
+          "name": "Android Studio",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Koin",
+          "name": "Azure Functions",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Terraform",
+          "name": "Docker",
           "type": "technology"
         }
       },
@@ -379,31 +309,19 @@
       },
       {
         "skill": {
-          "name": "Docker",
+          "name": "JSON",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Redis",
+          "name": "JavaScript",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Kotlin",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JetPack",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Android SDK",
+          "name": "Jenkins",
           "type": "technology"
         }
       },
@@ -415,7 +333,79 @@
       },
       {
         "skill": {
-          "name": "AWS",
+          "name": "JetPack",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jetbrains",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Koin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redis",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sequelize",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeORM",
           "type": "technology"
         }
       },
@@ -427,7 +417,7 @@
       },
       {
         "skill": {
-          "name": "Jetbrains",
+          "name": "XML",
           "type": "technology"
         }
       }
@@ -443,8 +433,8 @@
           "description": "Lo que aprendi:\n\n- Definir claramente qué es DevOps y cual es su propósito\n- Identificar áreas dentro el proceso de Desarrollo de Software que son candidatas para iniciar la práctica de DevOps.\n- Diseñar Pipelines de CI/CD\n- Establecer tu nivel segun el modelo de madurez tecnológica.",
           "URL": "https://www.udemy.com/certificate/UC-51563797-ff68-4433-9411-20bdf492c86d/",
           "image": {
-            "alt": "download.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/11/8fbcec70-8d8b-4e82-afc9-e5c75c77f3a5_download.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/11/8fbcec70-8d8b-4e82-afc9-e5c75c77f3a5_download.png",
+            "alt": "download.png"
           }
         },
         "linkedCompetences": [
@@ -483,15 +473,34 @@
         "degreeAchieved": true,
         "name": "Ingeniería en sistemas y telemática",
         "startDate": "2012-05-01",
-        "finishDate": "2017-11-01",
         "institution": {
           "name": "Universidad Centroamericana",
-          "description": "",
           "URL": "https://www.uca.edu.ni/",
           "image": {
-            "alt": "descarga.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/11/d834b18b-f009-4b6c-9d7b-b5acef7ab096_descarga.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/11/d834b18b-f009-4b6c-9d7b-b5acef7ab096_descarga.png",
+            "alt": "descarga.png"
           }
+        },
+        "finishDate": "2017-11-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Autonomía en el aprendizaje",
+          "type": "practice"
         }
       }
     ]
@@ -500,8 +509,21 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://linkedin.com/in/hreal92"
+          "URL": "https://linkedin.com/in/hreal92",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/herroldreal",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "realherrold@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "89517503",
+          "countryCode": "+505"
         }
       ]
     },
@@ -549,18 +571,10 @@
     },
     "status": "searchingActively"
   },
-  "asgardPreferences": {
+  "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "NodeJS",
-        "type": "technology"
-      },
-      {
-        "name": "Terraform",
-        "type": "technology"
-      },
-      {
-        "name": "Kotlin",
+        "name": "AWS",
         "type": "technology"
       },
       {
@@ -568,8 +582,23 @@
         "type": "technology"
       },
       {
-        "name": "AWS",
+        "name": "Kotlin",
         "type": "technology"
+      },
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "Terraform",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Mi trabajo ideal me permitiría integrar dentro de mi día a día distintas acciones: investigar con soluciones nuevas, hacer pruebas de concepto, etc. y ponerlas en marcha. Un trabajo creativo y con resultados útiles hacia negocio. Me interesa tanto ser un gestor de personas como un contribuidor individual, mientras trabaje en un entorno transparente, donde no haya barreras entre el management y el resto del equipo. No quiero trabajar en una empresa donde tenga que lidiar con muchas migraciones y código legacy. Una empresa con visión en Inteligencia Artificial, Machine Learning y Big Data",
+    "goodPractices": "Desde luego conozco y aplico SOLID, KISS, YAGNI… Personalmente, me ha costado encontrar un proyecto en mi carrera donde fuera una prioridad hacer TDD, aunque considero el testing una parte indispensable del desarrollo y siempre lo aplico, tanto unitarios como test de integración. Estoy acostumbrado a trabajar en equipos de alto rendimiento, aplicando CD/CI continuo. Por último, he trabajado en SCRUM y otras metodologías agile, aunque prefiero un sistema KANBAN.",
+    "projects": [
+      {
+        "name": "AWS SNS Extended Client - NPM Library"
       }
     ]
   }
