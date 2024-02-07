@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -18,7 +18,17 @@
         "notes": "Autocompleted using Google Maps API (id: ChIJzSL_zgDCEI8RtRWsP-Wn-sg)",
         "country": "Nicaragua"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/hreal92"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/herroldreal"
+      }
+    ]
   },
   "experience": {
     "jobs": [
@@ -245,10 +255,12 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Limited working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -519,12 +531,6 @@
       ],
       "contactMails": [
         "realherrold@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "89517503",
-          "countryCode": "+505"
-        }
       ]
     },
     "preferences": {
