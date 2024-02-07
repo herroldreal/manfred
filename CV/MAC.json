@@ -584,11 +584,11 @@
         "type": "technology"
       },
       {
-        "name": "Jest",
+        "name": "Kotlin",
         "type": "technology"
       },
       {
-        "name": "Kotlin",
+        "name": "MongoDB",
         "type": "technology"
       },
       {
@@ -596,7 +596,7 @@
         "type": "technology"
       },
       {
-        "name": "Terraform",
+        "name": "TypeScript",
         "type": "technology"
       }
     ],
